@@ -1,0 +1,108 @@
+"Notes"	"Year"	"Year Code"	"Hispanic Origin"	"Hispanic Origin Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"Hispanic or Latino"	"2135-2"	5109	1283208	398.1
+	"1999"	"1999"	"Not Hispanic or Latino"	"2186-2"	79321	15640404	507.2
+	"1999"	"1999"	"Not Stated"	"NS"	424	Not Applicable	Not Applicable
+	"2000"	"2000"	"Hispanic or Latino"	"2135-2"	5366	1360935	394.3
+	"2000"	"2000"	"Not Hispanic or Latino"	"2186-2"	83687	16224613	515.8
+	"2000"	"2000"	"Not Stated"	"NS"	456	Not Applicable	Not Applicable
+	"2001"	"2001"	"Hispanic or Latino"	"2135-2"	5965	1486004	401.4
+	"2001"	"2001"	"Not Hispanic or Latino"	"2186-2"	87989	17201281	511.5
+	"2001"	"2001"	"Not Stated"	"NS"	427	Not Applicable	Not Applicable
+	"2002"	"2002"	"Hispanic or Latino"	"2135-2"	6218	1564399	397.5
+	"2002"	"2002"	"Not Hispanic or Latino"	"2186-2"	89665	17175507	522.1
+	"2002"	"2002"	"Not Stated"	"NS"	437	Not Applicable	Not Applicable
+	"2003"	"2003"	"Hispanic or Latino"	"2135-2"	6599	1652436	399.3
+	"2003"	"2003"	"Not Hispanic or Latino"	"2186-2"	91594	17444842	525.0
+	"2003"	"2003"	"Not Stated"	"NS"	415	Not Applicable	Not Applicable
+	"2004"	"2004"	"Hispanic or Latino"	"2135-2"	6725	1750525	384.2
+	"2004"	"2004"	"Not Hispanic or Latino"	"2186-2"	92672	17814143	520.2
+	"2004"	"2004"	"Not Stated"	"NS"	373	Not Applicable	Not Applicable
+	"2005"	"2005"	"Hispanic or Latino"	"2135-2"	7363	1854678	397.0
+	"2005"	"2005"	"Not Hispanic or Latino"	"2186-2"	96436	18224055	529.2
+	"2005"	"2005"	"Not Stated"	"NS"	348	Not Applicable	Not Applicable
+	"2006"	"2006"	"Hispanic or Latino"	"2135-2"	7549	1966825	383.8
+	"2006"	"2006"	"Not Hispanic or Latino"	"2186-2"	97894	18604048	526.2
+	"2006"	"2006"	"Not Stated"	"NS"	320	Not Applicable	Not Applicable
+	"2007"	"2007"	"Hispanic or Latino"	"2135-2"	7848	2092187	375.1
+	"2007"	"2007"	"Not Hispanic or Latino"	"2186-2"	98809	19047991	518.7
+	"2007"	"2007"	"Not Stated"	"NS"	291	Not Applicable	Not Applicable
+	"2008"	"2008"	"Hispanic or Latino"	"2135-2"	7822	2213961	353.3
+	"2008"	"2008"	"Not Hispanic or Latino"	"2186-2"	100954	19425513	519.7
+	"2008"	"2008"	"Not Stated"	"NS"	349	Not Applicable	Not Applicable
+	"2009"	"2009"	"Hispanic or Latino"	"2135-2"	8351	2335952	357.5
+	"2009"	"2009"	"Not Hispanic or Latino"	"2186-2"	102376	19668891	520.5
+	"2009"	"2009"	"Not Stated"	"NS"	434	Not Applicable	Not Applicable
+	"2010"	"2010"	"Hispanic or Latino"	"2135-2"	8275	2441454	338.9
+	"2010"	"2010"	"Not Hispanic or Latino"	"2186-2"	100918	19856671	508.2
+	"2010"	"2010"	"Not Stated"	"NS"	445	Not Applicable	Not Applicable
+	"2011"	"2011"	"Hispanic or Latino"	"2135-2"	8790	2578717	340.9
+	"2011"	"2011"	"Not Hispanic or Latino"	"2186-2"	102388	19981481	512.4
+	"2011"	"2011"	"Not Stated"	"NS"	395	Not Applicable	Not Applicable
+	"2012"	"2012"	"Hispanic or Latino"	"2135-2"	9011	2682905	335.9
+	"2012"	"2012"	"Not Hispanic or Latino"	"2186-2"	101455	19896354	509.9
+	"2012"	"2012"	"Not Stated"	"NS"	518	Not Applicable	Not Applicable
+	"2013"	"2013"	"Hispanic or Latino"	"2135-2"	9408	2796621	336.4
+	"2013"	"2013"	"Not Hispanic or Latino"	"2186-2"	101000	19762605	511.1
+	"2013"	"2013"	"Not Stated"	"NS"	483	Not Applicable	Not Applicable
+	"2014"	"2014"	"Hispanic or Latino"	"2135-2"	9754	2940650	331.7
+	"2014"	"2014"	"Not Hispanic or Latino"	"2186-2"	100613	19630159	512.5
+	"2014"	"2014"	"Not Stated"	"NS"	534	Not Applicable	Not Applicable
+	"2015"	"2015"	"Hispanic or Latino"	"2135-2"	10030	3044383	329.5
+	"2015"	"2015"	"Not Hispanic or Latino"	"2186-2"	99478	19289934	515.7
+	"2015"	"2015"	"Not Stated"	"NS"	609	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2015"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Five-Year Age Groups: 50-54 years"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: All"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Weekday: All"
+"Year/Month: All"
+"Group By: Year, Hispanic Origin"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Jan 13, 2017 2:31:50 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2015 on CDC WONDER Online Database, released December, 2016. Data are from the Multiple Cause of Death Files, 1999-2015, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Jan 13, 2017 2:31:50 PM"
+"---"
+Caveats:
+"1. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"2. Deaths of persons with Hispanic origin ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among"
+"Hispanic Origin groups, so are not included in the Hispanic Origin specific counts and rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"3. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"4. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015"
+"postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for"
+"year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS"
+"on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012."
+"Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates"
+"of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26,"
+"2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal"
+"series of July 1 estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates"
+"and population figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population"
+"estimates which were available at the time of release."

@@ -1,0 +1,122 @@
+"Notes"	"Year"	"Year Code"	"Race"	"Race Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"American Indian or Alaska Native"	"1002-5"	700	138463	505.6
+	"1999"	"1999"	"Asian or Pacific Islander"	"A-PI"	1583	643891	245.8
+	"1999"	"1999"	"Black or African American"	"2054-5"	16455	1769463	929.9
+	"1999"	"1999"	"White"	"2106-3"	66116	14371795	460.0
+	"2000"	"2000"	"American Indian or Alaska Native"	"1002-5"	743	150766	492.8
+	"2000"	"2000"	"Asian or Pacific Islander"	"A-PI"	1669	687507	242.8
+	"2000"	"2000"	"Black or African American"	"2054-5"	17554	1869953	938.7
+	"2000"	"2000"	"White"	"2106-3"	69543	14877322	467.4
+	"2001"	"2001"	"American Indian or Alaska Native"	"1002-5"	812	164470	493.7
+	"2001"	"2001"	"Asian or Pacific Islander"	"A-PI"	1853	752662	246.2
+	"2001"	"2001"	"Black or African American"	"2054-5"	18651	2039927	914.3
+	"2001"	"2001"	"White"	"2106-3"	73065	15730226	464.5
+	"2002"	"2002"	"American Indian or Alaska Native"	"1002-5"	851	170681	498.6
+	"2002"	"2002"	"Asian or Pacific Islander"	"A-PI"	1904	791237	240.6
+	"2002"	"2002"	"Black or African American"	"2054-5"	19439	2117219	918.1
+	"2002"	"2002"	"White"	"2106-3"	74126	15660769	473.3
+	"2003"	"2003"	"American Indian or Alaska Native"	"1002-5"	970	179120	541.5
+	"2003"	"2003"	"Asian or Pacific Islander"	"A-PI"	1935	828565	233.5
+	"2003"	"2003"	"Black or African American"	"2054-5"	20326	2194729	926.1
+	"2003"	"2003"	"White"	"2106-3"	75377	15894864	474.2
+	"2004"	"2004"	"American Indian or Alaska Native"	"1002-5"	906	188895	479.6
+	"2004"	"2004"	"Asian or Pacific Islander"	"A-PI"	2039	863816	236.0
+	"2004"	"2004"	"Black or African American"	"2054-5"	20287	2278659	890.3
+	"2004"	"2004"	"White"	"2106-3"	76538	16233298	471.5
+	"2005"	"2005"	"American Indian or Alaska Native"	"1002-5"	1053	198968	529.2
+	"2005"	"2005"	"Asian or Pacific Islander"	"A-PI"	2121	898016	236.2
+	"2005"	"2005"	"Black or African American"	"2054-5"	21035	2359745	891.4
+	"2005"	"2005"	"White"	"2106-3"	79938	16622004	480.9
+	"2006"	"2006"	"American Indian or Alaska Native"	"1002-5"	1033	209747	492.5
+	"2006"	"2006"	"Asian or Pacific Islander"	"A-PI"	2096	942993	222.3
+	"2006"	"2006"	"Black or African American"	"2054-5"	21165	2445139	865.6
+	"2006"	"2006"	"White"	"2106-3"	81469	16972994	480.0
+	"2007"	"2007"	"American Indian or Alaska Native"	"1002-5"	1021	221818	460.3
+	"2007"	"2007"	"Asian or Pacific Islander"	"A-PI"	2120	985180	215.2
+	"2007"	"2007"	"Black or African American"	"2054-5"	21209	2553937	830.4
+	"2007"	"2007"	"White"	"2106-3"	82598	17379243	475.3
+	"2008"	"2008"	"American Indian or Alaska Native"	"1002-5"	1124	233780	480.8
+	"2008"	"2008"	"Asian or Pacific Islander"	"A-PI"	2201	1027265	214.3
+	"2008"	"2008"	"Black or African American"	"2054-5"	21016	2653007	792.2
+	"2008"	"2008"	"White"	"2106-3"	84784	17725422	478.3
+	"2009"	"2009"	"American Indian or Alaska Native"	"1002-5"	1169	244599	477.9
+	"2009"	"2009"	"Asian or Pacific Islander"	"A-PI"	2267	1063007	213.3
+	"2009"	"2009"	"Black or African American"	"2054-5"	21034	2735496	768.9
+	"2009"	"2009"	"White"	"2106-3"	86691	17961741	482.6
+	"2010"	"2010"	"American Indian or Alaska Native"	"1002-5"	1213	253858	477.8
+	"2010"	"2010"	"Asian or Pacific Islander"	"A-PI"	2262	1091739	207.2
+	"2010"	"2010"	"Black or African American"	"2054-5"	20512	2804072	731.5
+	"2010"	"2010"	"White"	"2106-3"	85651	18148456	471.9
+	"2011"	"2011"	"American Indian or Alaska Native"	"1002-5"	1254	262492	477.7
+	"2011"	"2011"	"Asian or Pacific Islander"	"A-PI"	2309	1116385	206.8
+	"2011"	"2011"	"Black or African American"	"2054-5"	20348	2852725	713.3
+	"2011"	"2011"	"White"	"2106-3"	87662	18328596	478.3
+	"2012"	"2012"	"American Indian or Alaska Native"	"1002-5"	1299	266922	486.7
+	"2012"	"2012"	"Asian or Pacific Islander"	"A-PI"	2445	1144933	213.5
+	"2012"	"2012"	"Black or African American"	"2054-5"	20198	2870287	703.7
+	"2012"	"2012"	"White"	"2106-3"	87042	18297117	475.7
+	"2013"	"2013"	"American Indian or Alaska Native"	"1002-5"	1298	271363	478.3
+	"2013"	"2013"	"Asian or Pacific Islander"	"A-PI"	2454	1185042	207.1
+	"2013"	"2013"	"Black or African American"	"2054-5"	19652	2887591	680.6
+	"2013"	"2013"	"White"	"2106-3"	87487	18215230	480.3
+	"2014"	"2014"	"American Indian or Alaska Native"	"1002-5"	1388	276111	502.7
+	"2014"	"2014"	"Asian or Pacific Islander"	"A-PI"	2536	1240370	204.5
+	"2014"	"2014"	"Black or African American"	"2054-5"	19714	2904956	678.6
+	"2014"	"2014"	"White"	"2106-3"	87263	18149372	480.8
+	"2015"	"2015"	"American Indian or Alaska Native"	"1002-5"	1438	276907	519.3
+	"2015"	"2015"	"Asian or Pacific Islander"	"A-PI"	2536	1270958	199.5
+	"2015"	"2015"	"Black or African American"	"2054-5"	19707	2899003	679.8
+	"2015"	"2015"	"White"	"2106-3"	86436	17887449	483.2
+"---"
+"Dataset: Underlying Cause of Death, 1999-2015"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Five-Year Age Groups: 50-54 years"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: All"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Weekday: All"
+"Year/Month: All"
+"Group By: Year, Race"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Jan 13, 2017 2:23:48 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2015 on CDC WONDER Online Database, released December, 2016. Data are from the Multiple Cause of Death Files, 1999-2015, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Jan 13, 2017 2:23:48 PM"
+"---"
+Caveats:
+"1. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"2. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"3. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015"
+"postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for"
+"year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS"
+"on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012."
+"Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates"
+"of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26,"
+"2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal"
+"series of July 1 estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates"
+"and population figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population"
+"estimates which were available at the time of release."
