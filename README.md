@@ -1,3 +1,8 @@
+## Examples
+
+* [Why are babies dying in Mississippi?](http://bl.ocks.org/ohdebby/raw/2a4f3cbd7466db0dda82ce58d6e9fe18/)
+* [Infant Mortality Choropleth](http://bl.ocks.org/syntagmatic/623a3221d3e694f85967d83082fd4a77)
+
 ## Background
 
 * [U.S. Suicide Rate Surges to a 30-Year High](https://www.nytimes.com/2016/04/22/health/us-suicide-rate-surges-to-a-30-year-high.html) - April 22, 2016
