@@ -2,6 +2,7 @@
 
 * [Why are babies dying in Mississippi?](http://bl.ocks.org/ohdebby/raw/2a4f3cbd7466db0dda82ce58d6e9fe18/)
 * [Infant Mortality Choropleth](http://bl.ocks.org/syntagmatic/623a3221d3e694f85967d83082fd4a77)
+* [Suicide Treemap by Age and Mechanism](https://bl.ocks.org/syntagmatic/3985d0343ddc32ca64fb55f560b77ac8)
 
 ## Background
 
