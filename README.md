@@ -2,6 +2,9 @@
 
 * [Why are babies dying in Mississippi?](http://bl.ocks.org/ohdebby/raw/2a4f3cbd7466db0dda82ce58d6e9fe18/)
 * [Infant Mortality Choropleth](http://bl.ocks.org/syntagmatic/623a3221d3e694f85967d83082fd4a77)
+* [Causes of Death - Whites 45-54](https://bl.ocks.org/ohdebby/ecfb35b607a329582a1eaa0db9a4dd39)
+* [All-cause Mortality - Ages 50-54](https://bl.ocks.org/ohdebby/0e3ac9340a87209a78e96975bfc1a3f3)
+* [Mortality 1933-2014](https://bl.ocks.org/ohdebby/ae3a7fdd03493e2ea1f8b871a6df3a7f)
 * [Suicide Treemap by Age and Mechanism](https://bl.ocks.org/syntagmatic/3985d0343ddc32ca64fb55f560b77ac8)
 
 ## Background
