@@ -9,6 +9,7 @@
 
 ## Background
 
+* [America’s opioid epidemic is worsening](http://www.economist.com/blogs/graphicdetail/2017/03/daily-chart-3) - March 6, 2017
 * [U.S. Suicide Rate Surges to a 30-Year High](https://www.nytimes.com/2016/04/22/health/us-suicide-rate-surges-to-a-30-year-high.html) - April 22, 2016
 * [A New Divide in American Death](http://www.washingtonpost.com/sf/national/2016/04/10/a-new-divide-in-american-death/) - April 10, 2016<br/>
 [<img alt="Drug Overdose Choropleths" src="https://cloud.githubusercontent.com/assets/156229/23320808/222fa21a-fa91-11e6-88e9-7e43f84c6c11.png" width=480/>](https://www.nytimes.com/interactive/2016/01/07/us/drug-overdose-deaths-in-the-us.html)<br/>
