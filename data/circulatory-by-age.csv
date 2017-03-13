@@ -1,0 +1,128 @@
+"Notes"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"ICD Sub-Chapter"	"ICD Sub-Chapter Code"	Deaths	Population	Crude Rate
+	"< 1 year"	"1"	"Chronic rheumatic heart diseases"	"I05-I09"	44	67638046	0.1
+	"< 1 year"	"1"	"Hypertensive diseases"	"I10-I15"	47	67638046	0.1
+	"< 1 year"	"1"	"Ischaemic heart diseases"	"I20-I25"	309	67638046	0.5
+	"< 1 year"	"1"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	2067	67638046	3.1
+	"< 1 year"	"1"	"Other forms of heart disease"	"I30-I51"	4227	67638046	6.2
+	"< 1 year"	"1"	"Cerebrovascular diseases"	"I60-I69"	2024	67638046	3.0
+	"< 1 year"	"1"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	293	67638046	0.4
+	"< 1 year"	"1"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	436	67638046	0.6
+	"< 1 year"	"1"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	56	67638046	0.1
+"Total"	"< 1 year"	"1"			9503	67638046	14.0
+	"1-4 years"	"1-4"	"Acute rheumatic fever"	"I00-I02"	2	269291942	Unreliable
+	"1-4 years"	"1-4"	"Chronic rheumatic heart diseases"	"I05-I09"	24	269291942	0.0
+	"1-4 years"	"1-4"	"Hypertensive diseases"	"I10-I15"	32	269291942	0.0
+	"1-4 years"	"1-4"	"Ischaemic heart diseases"	"I20-I25"	125	269291942	0.0
+	"1-4 years"	"1-4"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	442	269291942	0.2
+	"1-4 years"	"1-4"	"Other forms of heart disease"	"I30-I51"	2294	269291942	0.9
+	"1-4 years"	"1-4"	"Cerebrovascular diseases"	"I60-I69"	826	269291942	0.3
+	"1-4 years"	"1-4"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	56	269291942	0.0
+	"1-4 years"	"1-4"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	48	269291942	0.0
+	"1-4 years"	"1-4"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	6	269291942	Unreliable
+"Total"	"1-4 years"	"1-4"			3855	269291942	1.4
+	"5-14 years"	"5-14"	"Acute rheumatic fever"	"I00-I02"	13	696031111	Unreliable
+	"5-14 years"	"5-14"	"Chronic rheumatic heart diseases"	"I05-I09"	48	696031111	0.0
+	"5-14 years"	"5-14"	"Hypertensive diseases"	"I10-I15"	46	696031111	0.0
+	"5-14 years"	"5-14"	"Ischaemic heart diseases"	"I20-I25"	268	696031111	0.0
+	"5-14 years"	"5-14"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	433	696031111	0.1
+	"5-14 years"	"5-14"	"Other forms of heart disease"	"I30-I51"	3128	696031111	0.4
+	"5-14 years"	"5-14"	"Cerebrovascular diseases"	"I60-I69"	1425	696031111	0.2
+	"5-14 years"	"5-14"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	185	696031111	0.0
+	"5-14 years"	"5-14"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	63	696031111	0.0
+	"5-14 years"	"5-14"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	9	696031111	Unreliable
+"Total"	"5-14 years"	"5-14"			5618	696031111	0.8
+	"15-24 years"	"15-24"	"Acute rheumatic fever"	"I00-I02"	11	720819406	Unreliable
+	"15-24 years"	"15-24"	"Chronic rheumatic heart diseases"	"I05-I09"	174	720819406	0.0
+	"15-24 years"	"15-24"	"Hypertensive diseases"	"I10-I15"	1182	720819406	0.2
+	"15-24 years"	"15-24"	"Ischaemic heart diseases"	"I20-I25"	2325	720819406	0.3
+	"15-24 years"	"15-24"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	2023	720819406	0.3
+	"15-24 years"	"15-24"	"Other forms of heart disease"	"I30-I51"	12166	720819406	1.7
+	"15-24 years"	"15-24"	"Cerebrovascular diseases"	"I60-I69"	3218	720819406	0.4
+	"15-24 years"	"15-24"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	967	720819406	0.1
+	"15-24 years"	"15-24"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	730	720819406	0.1
+	"15-24 years"	"15-24"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	13	720819406	Unreliable
+"Total"	"15-24 years"	"15-24"			22809	720819406	3.2
+	"25-34 years"	"25-34"	"Acute rheumatic fever"	"I00-I02"	13	692361813	Unreliable
+	"25-34 years"	"25-34"	"Chronic rheumatic heart diseases"	"I05-I09"	561	692361813	0.1
+	"25-34 years"	"25-34"	"Hypertensive diseases"	"I10-I15"	7875	692361813	1.1
+	"25-34 years"	"25-34"	"Ischaemic heart diseases"	"I20-I25"	17390	692361813	2.5
+	"25-34 years"	"25-34"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	5323	692361813	0.8
+	"25-34 years"	"25-34"	"Other forms of heart disease"	"I30-I51"	25397	692361813	3.7
+	"25-34 years"	"25-34"	"Cerebrovascular diseases"	"I60-I69"	9390	692361813	1.4
+	"25-34 years"	"25-34"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	2705	692361813	0.4
+	"25-34 years"	"25-34"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	2252	692361813	0.3
+	"25-34 years"	"25-34"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	35	692361813	0.0
+"Total"	"25-34 years"	"25-34"			70941	692361813	10.2
+	"35-44 years"	"35-44"	"Acute rheumatic fever"	"I00-I02"	26	724868538	0.0
+	"35-44 years"	"35-44"	"Chronic rheumatic heart diseases"	"I05-I09"	1334	724868538	0.2
+	"35-44 years"	"35-44"	"Hypertensive diseases"	"I10-I15"	30852	724868538	4.3
+	"35-44 years"	"35-44"	"Ischaemic heart diseases"	"I20-I25"	107024	724868538	14.8
+	"35-44 years"	"35-44"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	11907	724868538	1.6
+	"35-44 years"	"35-44"	"Other forms of heart disease"	"I30-I51"	57847	724868538	8.0
+	"35-44 years"	"35-44"	"Cerebrovascular diseases"	"I60-I69"	36047	724868538	5.0
+	"35-44 years"	"35-44"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	7926	724868538	1.1
+	"35-44 years"	"35-44"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	5386	724868538	0.7
+	"35-44 years"	"35-44"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	145	724868538	0.0
+"Total"	"35-44 years"	"35-44"			258494	724868538	35.7
+	"45-54 years"	"45-54"	"Acute rheumatic fever"	"I00-I02"	57	719541855	0.0
+	"45-54 years"	"45-54"	"Chronic rheumatic heart diseases"	"I05-I09"	3222	719541855	0.4
+	"45-54 years"	"45-54"	"Hypertensive diseases"	"I10-I15"	83589	719541855	11.6
+	"45-54 years"	"45-54"	"Ischaemic heart diseases"	"I20-I25"	402417	719541855	55.9
+	"45-54 years"	"45-54"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	22319	719541855	3.1
+	"45-54 years"	"45-54"	"Other forms of heart disease"	"I30-I51"	129502	719541855	18.0
+	"45-54 years"	"45-54"	"Cerebrovascular diseases"	"I60-I69"	100579	719541855	14.0
+	"45-54 years"	"45-54"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	20338	719541855	2.8
+	"45-54 years"	"45-54"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	9166	719541855	1.3
+	"45-54 years"	"45-54"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	395	719541855	0.1
+"Total"	"45-54 years"	"45-54"			771584	719541855	107.2
+	"55-64 years"	"55-64"	"Acute rheumatic fever"	"I00-I02"	76	555841195	0.0
+	"55-64 years"	"55-64"	"Chronic rheumatic heart diseases"	"I05-I09"	6033	555841195	1.1
+	"55-64 years"	"55-64"	"Hypertensive diseases"	"I10-I15"	124137	555841195	22.3
+	"55-64 years"	"55-64"	"Ischaemic heart diseases"	"I20-I25"	801659	555841195	144.2
+	"55-64 years"	"55-64"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	32603	555841195	5.9
+	"55-64 years"	"55-64"	"Other forms of heart disease"	"I30-I51"	220609	555841195	39.7
+	"55-64 years"	"55-64"	"Cerebrovascular diseases"	"I60-I69"	179228	555841195	32.2
+	"55-64 years"	"55-64"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	44376	555841195	8.0
+	"55-64 years"	"55-64"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	9871	555841195	1.8
+	"55-64 years"	"55-64"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	932	555841195	0.2
+"Total"	"55-64 years"	"55-64"			1419524	555841195	255.4
+	"65-74 years"	"65-74"	"Acute rheumatic fever"	"I00-I02"	99	357619418	0.0
+	"65-74 years"	"65-74"	"Chronic rheumatic heart diseases"	"I05-I09"	10427	357619418	2.9
+	"65-74 years"	"65-74"	"Hypertensive diseases"	"I10-I15"	142112	357619418	39.7
+	"65-74 years"	"65-74"	"Ischaemic heart diseases"	"I20-I25"	1225737	357619418	342.7
+	"65-74 years"	"65-74"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	44669	357619418	12.5
+	"65-74 years"	"65-74"	"Other forms of heart disease"	"I30-I51"	362281	357619418	101.3
+	"65-74 years"	"65-74"	"Cerebrovascular diseases"	"I60-I69"	336150	357619418	94.0
+	"65-74 years"	"65-74"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	90328	357619418	25.3
+	"65-74 years"	"65-74"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	10151	357619418	2.8
+	"65-74 years"	"65-74"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	1577	357619418	0.4
+"Total"	"65-74 years"	"65-74"			2223531	357619418	621.8
+	"75-84 years"	"75-84"	"Acute rheumatic fever"	"I00-I02"	146	221748555	0.1
+	"75-84 years"	"75-84"	"Chronic rheumatic heart diseases"	"I05-I09"	17759	221748555	8.0
+	"75-84 years"	"75-84"	"Hypertensive diseases"	"I10-I15"	234990	221748555	106.0
+	"75-84 years"	"75-84"	"Ischaemic heart diseases"	"I20-I25"	2090610	221748555	942.8
+	"75-84 years"	"75-84"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	60860	221748555	27.4
+	"75-84 years"	"75-84"	"Other forms of heart disease"	"I30-I51"	745948	221748555	336.4
+	"75-84 years"	"75-84"	"Cerebrovascular diseases"	"I60-I69"	761929	221748555	343.6
+	"75-84 years"	"75-84"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	167002	221748555	75.3
+	"75-84 years"	"75-84"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	13624	221748555	6.1
+	"75-84 years"	"75-84"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	2816	221748555	1.3
+"Total"	"75-84 years"	"75-84"			4095684	221748555	1847.0
+	"85+ years"	"85+"	"Acute rheumatic fever"	"I00-I02"	125	86856997	0.1
+	"85+ years"	"85+"	"Chronic rheumatic heart diseases"	"I05-I09"	16301	86856997	18.8
+	"85+ years"	"85+"	"Hypertensive diseases"	"I10-I15"	382176	86856997	440.0
+	"85+ years"	"85+"	"Ischaemic heart diseases"	"I20-I25"	2621471	86856997	3018.1
+	"85+ years"	"85+"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	53594	86856997	61.7
+	"85+ years"	"85+"	"Other forms of heart disease"	"I30-I51"	1227329	86856997	1413.0
+	"85+ years"	"85+"	"Cerebrovascular diseases"	"I60-I69"	1007120	86856997	1159.5
+	"85+ years"	"85+"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	204252	86856997	235.2
+	"85+ years"	"85+"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	14007	86856997	16.1
+	"85+ years"	"85+"	"Other and unspecified disorders of the circulatory system"	"I95-I99"	3323	86856997	3.8
+"Total"	"85+ years"	"85+"			5529698	86856997	6366.4
+	"Not Stated"	"NS"	"Hypertensive diseases"	"I10-I15"	68	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Ischaemic heart diseases"	"I20-I25"	479	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Pulmonary heart disease and diseases of pulmonary circulation"	"I26-I28"	6	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Other forms of heart disease"	"I30-I51"	93	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Cerebrovascular diseases"	"I60-I69"	62	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Diseases of arteries, arterioles and capillaries"	"I70-I78"	15	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"	"I80-I89"	8	Not Applicable	Not Applicable
